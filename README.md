@@ -1,2 +1,11 @@
 # Binary_Search_Tree_Projesi
-Binary_Search_Tree 
+root 7'dir. - Adım 1: Dizinin ilk elemanı olan 7, ağacın root (kök) düğümüdür.
+- Adım 2: 5 gelir. 5, 7'den küçük olduğu için 7'nin soluna yerleşir.
+- Adım 3: 1 gelir. 1, 7'den ve 5'ten küçük olduğu için 5'in soluna yerleşir.
+- Adım 4: 8 gelir. 8, 7'den büyük olduğu için 7'nin sağına yerleşir.
+- Adım 5: 3 gelir. 3, 7'den ve 5'den küçüktür ama 1'den büyüktür. Bu yüzden 1'in sağına yerleşir.
+- Adım 6: 6 gelir. 6, 7'den küçüktür ama 5'ten büyüktür. Bu yüzden 5'in sağına yerleşir.
+- Adım 7: 0 gelir. 0; 7, 5 ve 1'den küçüktür. Bu yüzden 1'in soluna yerleşir.
+- Adım 8: 9 gelir. 9; 7 ve 8'den büyüktür. Bu yüzden 8'in sağına yerleşir.
+- Adım 9: 4 gelir. 4; 7 ve 5'ten küçüktür, 1'den büyüktür ama 3'ten de büyüktür. Bu yüzden 3'ün sağına yerleşir.
+- Adım 10: 2 gelir. 2; 7 ve 5'ten küçüktür, 1'den büyüktür ama 3'ten küçüktür. Bu yüzden 3'ün soluna yerleşir.
